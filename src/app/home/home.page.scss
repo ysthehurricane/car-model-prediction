@@ -1,1 +1,19 @@
-
+ion-fab-button{
+    width: 85px;
+    height: 85px;
+    ion-icon{
+        font-size: 3.6em;
+    }
+}
+ion-card{
+    border-block-color: #000000;
+    ion-card-content{
+        ion-icon{
+            width: 100%;
+            font-size: 10em;
+        }
+        h1{
+            width: 100%;
+        }
+    }
+}
